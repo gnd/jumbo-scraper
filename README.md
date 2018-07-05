@@ -1,5 +1,5 @@
 # jumbo-scraper
-A Scrapy spider that extracts nutrition values from all Jumbo.nl products
+A Scrapy spider that extracts nutrition values from all Jumbo.com products
 
 # usage
 scrapy crawl jumbo -a maxpages=1950 -a recheck=1 -a delay=0.6
